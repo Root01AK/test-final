@@ -22,7 +22,7 @@ body {
 
 @media (max-width: 600px) {
     .testar {
-        width: 90%;
+        width: 100%;
         height: 90vh;
         text-align: center;
     }
